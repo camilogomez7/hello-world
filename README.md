@@ -1,2 +1,3 @@
 # hello-world
-pagina practica
+pagina practic
+Me gusta mucho el futbol y la musica.
